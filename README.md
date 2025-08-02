@@ -1,19 +1,57 @@
-# Módulo 3 - Trilha HTML
+# 🧠 Recriando Wikipedia – Inteligência Artificial
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+## 📘 Módulo 3 - Trilha HTML - DIO.me
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+Este repositório contém o projeto do desafio "Recriando Wikipedia", proposto no Módulo 3 da Trilha de HTML da DIO.me.  
+A proposta consiste em desenvolver uma página informativa inspirada na Wikipedia, com foco em **semântica** e **acessibilidade**.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+---
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+## 🎯 Tema escolhido: Inteligência Artificial
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+A Inteligência Artificial (IA) é um dos temas mais atuais e relevantes da tecnologia, presente em diversas áreas como saúde, educação, mobilidade e programação.  
+Foi escolhido por sua importância e conexão direta com minha área de estudos.
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+---
 
+## 🛠️ Tecnologias utilizadas
 
+- **HTML5**
+- **CSS3** (fornecido pelo professor, não alterado)
+
+---
+
+## 🔍 Padrões aplicados
+
+- Estrutura semântica: `header`, `nav`, `main`, `article`, `aside`, `footer`
+- Navegação com link por âncora interna
+- Atributos `alt` em imagens para leitor de tela
+- Hierarquia de títulos: `h1`, `h2`
+- Linguagem clara e links descritivos
+- Uso adequado de aria-labels
+
+---
+
+## Conteúdo da Página
+
+- Definição de Inteligência Artificial
+- Imagens ilustrativas com legenda
+- Tabela com tipos de IA
+- Lista de aplicações no cotidiano
+- Link para conteúdo externo (Wikipedia)
+
+---
+
+## 🔗 Fontes e Créditos
+
+- Conteúdo retirado da [Wikipedia - Inteligência Artificial](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial)
+- Layout base fornecido pelo instrutor da DIO
+- Ferramenta de acessibilidades sugeridas: 
+    - [NVDA](https://www.nvaccess.org/download/)
+    - [Wave Evaluation](https://wave.webaim.org/extension/)
+
+---
+
+## ✍️ Desenvolvido por
+
+**July Ribeiro** – Aluna da DIO 👩🏻‍💻
